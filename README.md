@@ -15,5 +15,5 @@
 <br>	* Hard		: 30x16 dengan 99 mines (bom)
 <br>	Sebelum bermain, pemain menginputkan username-nya yang akan ditampilkan
 <br>sepanjang permainan. Sistem skoring game ini berdasarkan menang/kalah. Jadi, 
-<br>apabila pemain terkena bom, maka kalah. Apabila pemain berhasil mengisi semua kolom,
+<br>apabila pemain terkena bom atau menemukan puffy, maka kalah. Apabila pemain berhasil mengisi semua kolom,
 <br>maka menang.
